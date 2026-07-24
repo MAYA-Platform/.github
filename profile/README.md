@@ -35,6 +35,10 @@ A local static repository ZIP analyzer that turns source structure, safety signa
 
 [View source](https://github.com/MAYA-Platform/MAYA-Repo-Brief) · [Latest prerelease](https://github.com/MAYA-Platform/MAYA-Repo-Brief/releases/latest)
 
+## 📢 Recent
+
+**July 2026** — ReadTheRoom and MAYA Repo Brief are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
+
 ## Current stage
 
 These repositories are focused public beta products in the broader MAYA ecosystem. The platform's private operating architecture remains under active development and controlled review.
