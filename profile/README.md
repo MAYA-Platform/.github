@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/maya-platform-banner.png" alt="2ndNatureAi — Context before response. Permission before action." width="100%">
+  <img src="./assets/maya-platform-banner.png" alt="2ndNatureAi, Context before response. Permission before action." width="100%">
 </p>
 
 <h1 align="center">MAYA Platform</h1>
@@ -37,7 +37,7 @@ A local static repository ZIP analyzer that turns source structure, safety signa
 
 ## 📢 Recent
 
-**July 2026** — ReadTheRoom and MAYA Repo Brief are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
+**July 2026**, ReadTheRoom and MAYA Repo Brief are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
 
 ## Current stage
 
