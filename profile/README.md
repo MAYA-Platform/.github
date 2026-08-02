@@ -41,9 +41,15 @@ A local, provider-agnostic dashboard that turns AI provider balances into a live
 
 [View source](https://github.com/MAYA-Platform/MAYA-Usage-Dashboard) · [Latest prerelease](https://github.com/MAYA-Platform/MAYA-Usage-Dashboard/releases/latest)
 
+### [MAYA Memory Lane](https://github.com/MAYA-Platform/MAYA-Memory-Lane)
+
+A local-first, tamper-evident memory library. Every session leaves a sealed record with a SHA-256 fingerprint, every six records fold into one shelf block, and each shelf block carries the fingerprint of the one before it. Verified in seconds, resumed with a single phrase, and the files are always yours.
+
+[View source](https://github.com/MAYA-Platform/MAYA-Memory-Lane) · [Latest prerelease](https://github.com/MAYA-Platform/MAYA-Memory-Lane/releases/latest)
+
 ## 📢 Recent
 
-**August 2026**, ReadTheRoom, MAYA Repo Brief, and MAYA Usage Dashboard are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
+**August 2026**, ReadTheRoom, MAYA Repo Brief, MAYA Usage Dashboard, and MAYA Memory Lane are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
 
 ## Current stage
 
