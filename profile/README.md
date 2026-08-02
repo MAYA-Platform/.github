@@ -35,9 +35,15 @@ A local static repository ZIP analyzer that turns source structure, safety signa
 
 [View source](https://github.com/MAYA-Platform/MAYA-Repo-Brief) · [Latest prerelease](https://github.com/MAYA-Platform/MAYA-Repo-Brief/releases/latest)
 
+### [MAYA Usage Dashboard](https://github.com/MAYA-Platform/MAYA-Usage-Dashboard)
+
+A local, provider-agnostic dashboard that turns AI provider balances into a live picture of burn rate, runway, and key health, with a watchdog that catches stale or rejected keys before they break your setup.
+
+[View source](https://github.com/MAYA-Platform/MAYA-Usage-Dashboard) · [Latest prerelease](https://github.com/MAYA-Platform/MAYA-Usage-Dashboard/releases/latest)
+
 ## 📢 Recent
 
-**July 2026**, ReadTheRoom and MAYA Repo Brief are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
+**August 2026**, ReadTheRoom, MAYA Repo Brief, and MAYA Usage Dashboard are available as public beta releases. The core context-engine and permission architecture continues under active development. New public releases appear here when independently testable.
 
 ## Current stage
 
