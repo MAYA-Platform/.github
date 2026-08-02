@@ -2,7 +2,7 @@
   <img src="./assets/maya-platform-banner.png" alt="2ndNatureAi, Context before response. Permission before action." width="100%">
 </p>
 
-<h1 align="center">MAYA Platform</h1>
+<h1 align="center">MAYA</h1>
 
 <p align="center"><strong>MAYA knows your business well enough to speak for it, and smart enough to know when to hand you the phone.</strong></p>
 
