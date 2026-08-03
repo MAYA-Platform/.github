@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/maya-platform-banner.png" alt="2ndNatureAi, Context before response. Permission before action." width="100%">
+  <img src="https://raw.githubusercontent.com/MAYA-Platform/.github/main/profile/assets/maya-platform-banner.png" alt="2ndNatureAi" width="100%">
 </p>
+
+<p align="center"><strong>2ndNatureAi, Context before response. Permission before action.</strong></p>
 
 <h1 align="center">MAYA</h1>
 
